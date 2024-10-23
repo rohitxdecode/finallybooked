@@ -1,0 +1,11 @@
+### General ###
+target
+
+### IntelliJ IDEA ###
+.idea
+
+### Webserver ###
+my-tomcat
+
+### Logs ###
+app-logs
