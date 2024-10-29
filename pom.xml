@@ -6,8 +6,8 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.ecommerce</groupId>
 	<artifactId>finallybooked</artifactId>
-	<packaging>pom</packaging>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>pom</packaging>
 	<name>finallybooked</name>
 
 	<properties>
