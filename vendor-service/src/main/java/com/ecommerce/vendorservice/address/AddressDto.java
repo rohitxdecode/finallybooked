@@ -2,8 +2,8 @@ package com.ecommerce.vendorservice.address;
 
 public record AddressDto
         (
-                int unit,
-                int level,
+                Integer unit,
+                Integer level,
                 String building,
                 String area,
                 String city,

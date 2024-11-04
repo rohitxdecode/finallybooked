@@ -6,6 +6,6 @@ public record VendorDto
         (
                 String name,
                 String email,
-                long mobile,
+                Long mobile,
                 AddressDto address
         ){}
